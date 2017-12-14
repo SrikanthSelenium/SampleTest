@@ -34,9 +34,10 @@ public class Sample {
 		{
 			res=res+t[i];
 		}
-		System.out.println(res);
+		System.out.println(res);//changed in master
 
 		System.out.println(res);//changed in b1
+		System.out.println(res);//changed in b1 to add it in remote branch
 		
 
 	}
