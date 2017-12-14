@@ -37,7 +37,9 @@ public class Sample {
 		System.out.println(res);//changed in master
 
 		System.out.println(res);//changed in b1
-		System.out.println(res);//changed in b1 to add it in remote branch
+		System.out.println(res);//changed in master local to add them in master
+				
+
 		
 
 	}
